@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @ExtendWith(SpringExtension.class)
 class OperationTest {
-
     @Test
     @DisplayName("열거타입 추상메서드 활용")
     public void a() {
